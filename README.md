@@ -7,4 +7,4 @@ Specifically, I am passionate about developing robust techniques for **deepfake 
 
 Previously, I received the B.Eng degree form SDUT in 2023.
 
-My personal homepage is at [siyouguo.github.io/](https://siyouguo.github.io/).
+My personal homepage is at [Siyou Guo (郭思友)](https://siyouguo.github.io/).
