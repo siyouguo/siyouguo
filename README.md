@@ -5,6 +5,6 @@ I am a second-year M.S. student at the [School of Electrical and Electronic Engi
 
 Specifically, I am passionate about developing robust techniques for **deepfake and fake news detection**, with a particular focus on the new complexities and threats emerging in the era of Large Language Models (LLMs). My goal is to contribute to a more secure and trustworthy information ecosystem.
 
-Previously, I received the B.Eng degree form SDUT in 2023.
+Previously, I received the B.Eng degree from SDUT in 2023.
 
 My personal homepage is at [Siyou Guo (郭思友)](https://siyouguo.github.io/).
